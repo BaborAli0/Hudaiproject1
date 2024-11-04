@@ -1,3 +1,6 @@
 This is our first txt file.
 Ami matro  github eh Kichu likhlam ...
 now i am a beginner.
+
+ami arekbar kichu add korlam.in one.txt file 
+I want to be a good programmer.
